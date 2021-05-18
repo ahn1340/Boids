@@ -15,7 +15,7 @@ The three principles give rise to the emergent behavior of boids flocking with e
 This implementation also includes predators that chase the boids. Boids try to run away from the predators when they are within a certain distance.
 
 ## How to run
-Simply run Boids.m.
+Run Boids.m to produce the simulation in avi format.
 
 
 ## How to change setting
